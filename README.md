@@ -22,13 +22,13 @@ In this practice session, we will learn to code Simple Linear Regression.
 
 We will perform the following steps to build a Simple Linear Regressor using a very simple dataset. 
 
-Step 1. Data Preprocessing Importing the libraries. 
+**Step 1. Data Preprocessing Importing the libraries.**
 
 - Importing the data set. 
 - Classifying dependent and independent variables. 
 - Creating training and test sets. 
 
-Step 2. Simple Linear Regression Creating a Simple Linear Regressor. 
+**Step 2. Simple Linear Regression Creating a Simple Linear Regressor.**
 
 - Training the regressor with training data. 
 - Predicting the salary for a test set. 
