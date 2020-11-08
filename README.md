@@ -16,7 +16,7 @@ For more than one explanatory variable, the process is called multiple linear re
 
 This term is distinct from multivariate linear regression, where multiple correlated dependent variables are predicted, rather than a single scalar variable. 
 
-Simple Linear Regression is the type of regression in which a single independent variable is used to predict the values of the dependent variable. 
+**Simple Linear Regression is the type of regression in which a single independent variable is used to predict the values of the dependent variable.**
 
 In this practice session, we will learn to code Simple Linear Regression.
 
